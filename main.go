@@ -71,8 +71,8 @@ func main() {
 			log.Println(msg)
 			response, err := app.SendMessage(msg, recipient)
 			if err != nil {
-        		log.Panic(err)
-    		}
+				log.Panic(err)
+			}
     		log.Println(response)
 		}
 	}
