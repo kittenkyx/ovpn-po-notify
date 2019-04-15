@@ -41,7 +41,7 @@ func main() {
 	    log.Println(err)
 	}
 
-	userToken= config.User
+	userToken = config.User
 	appToken = config.App
 	logFile = config.Location
 
