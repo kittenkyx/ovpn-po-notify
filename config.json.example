@@ -1,0 +1,5 @@
+{
+    "user":"YOUR_USER_TOKEN",
+    "app":"YOUR_APP_SPECIFIC_TOKEN",
+    "location":"THE_LOCATION_OF_YOUR_LOG_APPEND_FILE"
+}
